@@ -34,6 +34,8 @@ export default function Home() {
           <li>任何一方均有权随时撤回同意</li>
           <li>协议遵循自愿、平等、真实的原则</li>
           <li>本系统生成的协议可打印出来供双方手签</li>
+          <li>POWERED BY SWK</li>          
+          <li>有任何问题联系Q:2940714815</li>                    
         </ul>
       </div>
     </div>

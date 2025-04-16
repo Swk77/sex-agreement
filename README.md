@@ -2,9 +2,9 @@
 
 ![版本](https://img.shields.io/badge/版本-1.1.0-blue) ![开发工具](https://img.shields.io/badge/IDE-VSCode-green) ![Next.js](https://img.shields.io/badge/Next.js-13.0+-brightgreen) ![React](https://img.shields.io/badge/React-18.0+-orange) ![Node.js](https://img.shields.io/badge/Node.js-18.0+-success) ![Cloudflare](https://img.shields.io/badge/部署-Cloudflare-orange)
 
-[![GitHub stars](https://img.shields.io/github/stars/123xiao/sex-agreement-app)](https://github.com/Swk77/sex-agreement/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/123xiao/sex-agreement-app)](https://github.com/Swk77/sex-agreement/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/123xiao/sex-agreement-app)](https://github.com/Swk77/sex-agreement/issues)
+[![GitHub stars](https://img.shields.io/github/stars/Swk77/sex-agreement)](https://github.com/Swk77/sex-agreement/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Swk77/sex-agreement)](https://github.com/Swk77/sex-agreement/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/Swk77/sex-agreement)](https://github.com/Swk77/sex-agreement/issues)
 
 一个用于创建、签署和管理性行为同意协议的 Web 应用程序。该应用允许用户在线创建详细的性行为同意协议，并通过数字签名方式进行签署，同时支持导出为 PDF 格式保存。
 
